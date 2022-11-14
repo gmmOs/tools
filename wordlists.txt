@@ -1,2 +1,2 @@
-directory discovery wordlist: https://github.com/gmmOs/subdirectories-discover/blob/d6f4250560928e7bdcd31eb78cc3c0e76bb9d55f/dsstorewordlist.txt
+directory discovery wordlist: https://raw.githubusercontent.com/gmmOs/subdirectories-discover/main/dsstorewordlist.txt
     tested on: hackthebox:Crocodile
