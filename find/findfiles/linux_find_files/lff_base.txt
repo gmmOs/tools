@@ -1,1 +1,16 @@
-placeholder
+find
+
+	basic use: find / -iname "*x*txt" 2>/dev/null 
+
+	links:
+ 		https://www.redhat.com/sysadmin/linux-find-command		
+locate
+	(use updatedb before search)
+
+	basic use: updatedb && locate *.txt | less
+
+	links:
+		https://phoenixnap.com/kb/locate-command-in-linux
+
+which
+	find executables in path
