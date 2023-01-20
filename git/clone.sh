@@ -1,4 +1,4 @@
-!#/bin/sh
+#!/bin/sh
 
 USERNAME=$1
 REPO=$2
