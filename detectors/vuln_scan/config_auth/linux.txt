@@ -1,0 +1,3 @@
+check enable ssh
+check enable firewall for ssh
+configure scanner with valid user credentials

@@ -1,0 +1,13 @@
+open and configure proxy
+record manual login attempts with proxy
+at Positions tab
+identify conditional variables
+clear $
+add $ to conditional variables (create positions)
+choose attack type : Pitchfork
+at Options tab under "grep - extarct" extaract conditional string patterns
+at Payloads choose "Recursive grep", "Simple list", "Runtime file" etc...
+for each position
+at Resource Pool ajust config
+start attack
+

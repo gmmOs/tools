@@ -1,0 +1,3 @@
+https://beefproject.com/
+https://gitlab.com/kalilinux/packages/beef-xss
+https://github.com/beefproject/beef/

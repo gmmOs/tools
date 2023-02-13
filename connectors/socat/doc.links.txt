@@ -1,6 +1,0 @@
-http://www.dest-unreach.org/socat/
-http://www.dest-unreach.org/socat/doc/socat.html
-https://copyconstruct.medium.com/socat-29453e9fc8a6
-https://www.redhat.com/sysadmin/getting-started-socat
-https://www.linux.com/news/socat-general-bidirectional-pipe-handler/
-https://linux.die.net/man/1/socat

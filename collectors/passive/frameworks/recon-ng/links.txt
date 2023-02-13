@@ -1,0 +1,2 @@
+https://github.com/lanmaster53/recon-ng
+https://github.com/lanmaster53/recon-ng-marketplace/wiki/API-Keys

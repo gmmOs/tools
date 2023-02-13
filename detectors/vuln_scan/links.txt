@@ -1,0 +1,4 @@
+https://docs.tenable.com/nessus/Content/DiscoverySettings.htm#HostDiscovery
+https://nmap.org/book/man-host-discovery.html
+https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
+https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)

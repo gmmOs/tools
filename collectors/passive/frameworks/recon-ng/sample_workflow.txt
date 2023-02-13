@@ -1,0 +1,13 @@
+recon-ng
+marketplace search ${tool_name}
+marketplace info ${tool_name}
+marketplace install ${tool_name}
+
+modules load ${tool_name}
+info
+options set ${option_name} ${?param~${target_name}}
+run
+
+back
+show
+show ${item|table}

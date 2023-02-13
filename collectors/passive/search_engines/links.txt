@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Google_hacking
+https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/0128029641/ref=dp_ob_image_bk
+https://www.exploit-db.com/google-hacking-database
+https://www.shodan.io/

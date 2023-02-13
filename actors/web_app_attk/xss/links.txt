@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Cross-site_scripting
+https://en.wikipedia.org/wiki/Data_validation
+https://en.wikipedia.org/wiki/Character_encodings_in_HTML#HTML_character_references
+https://en.wikipedia.org/wiki/Percent-encoding
+
+man curl ?encode
+hURL

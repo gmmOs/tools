@@ -1,0 +1,3 @@
+https://portswigger.net/burp
+https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-basic/
+https://en.wikipedia.org/wiki/Captive_portal

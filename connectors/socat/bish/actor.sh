@@ -1,0 +1,5 @@
+#!/bin/sh
+
+VICTIM_ADDRESS=$1
+VICTIM_PORT=$2
+socat -d -d - OPENSSL:${VICTIM_ADDRESS}:${VICTIM_PORT},verify=0

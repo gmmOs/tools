@@ -1,0 +1,4 @@
+scanning via proxies may require -sT (TCP connect);
+-sU (UDP scan) send protocol specific packets to common ports (what are those common ports? check with tcpdump...);
+
+

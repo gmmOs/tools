@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Server_Message_Block
+http://markgamache.blogspot.ca/2013/01/ntlm-challenge-response-is-100-broken.html

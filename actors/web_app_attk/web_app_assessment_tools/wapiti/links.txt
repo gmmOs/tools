@@ -1,0 +1,2 @@
+https://salsa.debian.org/pkg-security-team/wapiti
+https://github.com/wapiti-scanner/wapiti

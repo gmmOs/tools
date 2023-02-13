@@ -1,0 +1,17 @@
+#!/bin/sh
+
+BASE=$1
+ACTUAL=$2
+TARGET="/home/kali/Ex/${BASE}/${ACTUAL}"
+
+echo "base: ${BASE}"
+echo "target: ${TARGET}"
+mkdir -p ${TARGET}
+cd ${TARGET}
+mkdir -p assets
+touch target.os-release
+touch target.name
+touch target.ip
+touch target.id
+touch objective.txt
+touch target.machine-id

